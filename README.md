@@ -3,10 +3,15 @@
 - 🌱 I’m currently learning how to become a better specialist on my profile. 
 - 💞️ I’m looking to collaborate on various projects in order to develop and make new acquaintances. 
 - 📫 How to reach me:
+
                          E-mail: herghelegiu.doru99@gmail.com
+                         
                          Skype: herghelegiu.doru99
+                         
                          Facebook: https://www.facebook.com/dorumarian.herghelegiu/
+                         
                          LinkedIn: https://www.linkedin.com/in/doru-marian-herghelegiu/
+                         
                          VKontakte: https://vk.com/id376947496 
 
 <!---
