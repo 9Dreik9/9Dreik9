@@ -8,6 +8,8 @@
                          
                          Skype: herghelegiu.doru99
                          
+                         Discord: 9Dreik9#7640
+                         
                          Facebook: https://www.facebook.com/dorumarian.herghelegiu/
                          
                          LinkedIn: https://www.linkedin.com/in/doru-marian-herghelegiu/
