@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @9Dreik9.
-- 👀 I’m interested in Video Games, Sports, Music and Travel. 
-- 🌱 I’m currently learning how to become a better specialist on my profile. 
-- 💞️ I’m looking to collaborate on various projects in order to develop and make new acquaintances. 
+- 👋 Hi, I’m Herghelegiu Doru-Marian (9Dreik9).
+- 👀 I’m interested in Video Games, Sports, Music and Travel.
+- 🌱 Currently I’m a Junior Software Developer at National Bureau of Statistics of the Republic of Moldova and a student enrolled in the Master's program in Applied Informatics at the Moldova State University.
+- 💞️ I’m looking to become a better specialist on my profile and to collaborate on various projects in order to develop and make new acquaintances.
 - 📫 How to reach me:
 
                          E-mail: herghelegiu.doru99@gmail.com
