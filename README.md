@@ -14,7 +14,7 @@
                          
                          LinkedIn: https://www.linkedin.com/in/doru-marian-herghelegiu/
                          
-                         VKontakte: https://vk.com/id376947496 
+                         ВКонтакте: https://vk.com/id376947496 
 
 <!---
 9Dreik9/9Dreik9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
