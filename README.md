@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Doru-Marian Herghelegiu (9Dreik9).</h1>
-<h3 align="center">Software Developer</h3>
+<h1 align="center">Hi 👋, I'm Doru-Marian Herghelegiu (9Dreik9)</h1>
+<h3 align="center">A passionate Software Developer from Republic of Moldova</h3>
 
 - 👀 I’m interested in **Video Games, Sports, Music and Travel.**
 
