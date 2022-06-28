@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Doru-Marian Herghelegiu (9Dreik9).</h1>
-<h3 align="center">A passionate Software Developer from Republic of Moldova.</h3>
+<h1 align="center">Hi 👋, I'm Doru-Marian Herghelegiu (9Dreik9)</h1>
+<h3 align="center">A passionate Full Stack Developer from Republic of Moldova</h3>
 
-- 👀 I’m interested in **Video Games, Sports, Music and Travel.**
+- 👀 I’m interested in **Video Games, Sports, Music and Travel;**
 
-- 💞️ I’m looking to **I’m looking to become a better specialist on my profile and to collaborate on various projects in order to develop.**
+- 💞️ I’m looking to **become a better specialist on my profile and to collaborate on various projects in order to develop.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
